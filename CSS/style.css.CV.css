@@ -1,0 +1,44 @@
+header{
+    background-color: purple;
+}
+h1{
+    float: right;
+    color:white ;
+    text-shadow: 0.1em 0.1em black;
+}
+div{
+    text-align: left;
+    padding: 15px;
+    columns: 3;
+}
+
+section{
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin: 5px;
+    position: static;
+    left: 10px;
+    display: flex;
+}
+
+h2{
+    color: purple;
+    text-decoration: underline;
+}
+
+h3{
+    color: black;
+    text-shadow: 0.1em 0.1em violet;
+}
+
+h4{
+    color: grey;
+}
+
+h5{ 
+    color: rgb(143, 140, 140);
+    font-style: italic;
+}
+article{
+    text-align: left;
+}
